@@ -18,6 +18,8 @@
     echo "<br>";
     echo "<a href='global_local.php'>Acesso de variáveis em php (variáveis locais vs locais)</a>";
     echo "<br>";
+    echo "<a href='calculadora.php'>Calculadora Operações Básicas</a>";
+    echo "<br>";
 ?>   
 </body>
 </html>
